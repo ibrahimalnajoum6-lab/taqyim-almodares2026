@@ -1,0 +1,17 @@
+{
+  "name": "لجنة تقييم أداء المدرس - وزارة الأوقاف",
+  "short_name": "تقييم المدرسين",
+  "description": "تطبيق موجّهي التعليم الشرعي لإعداد استمارات تقييم أداء المدرّسين في ثانويات مدينة حلب الشرعية",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f6f2e9",
+  "theme_color": "#0f4c3a",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
